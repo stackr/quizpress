@@ -1,0 +1,30 @@
+.quizpress{width:100%;margin:0 auto;border:1px solid #c2d2da;overflow:hidden;position:relative;}
+.quizpress #header{height:40px;background:#3c9cd7;position:relative;}
+.quizpress #header h1{position:absolute;left:14px;top:15px;}
+.quizpress #header h1 a{display:block;width:62px;height:12px;text-indent:-9999em;background:url(../images/logo_white.png) 0 0 no-repeat;}
+.quizpress #header h2{font-size:15px;color:#fff;text-align:center;line-height:40px;font-weight:bold;}
+
+.quizpress .quizProcCon{background:#fff;text-align:center;padding-bottom:39px;`}
+.quizpress .quizProcCon .count{background:#f0f0f0;color:#33414a;font-size:15px;height:48px;line-height:52px;margin-bottom:20px;text-align:center;font-weight:bold;}
+.quizpress .quizProcCon .count em{font-size:25px;}
+.quizpress .quizProcCon .thumb{width:262px;margin:0 auto;margin-bottom:20px;margin-top:20px;}
+.quizpress .quizProcCon .thumb img{width:100%;}
+.quizpress .quizProcCon dl{padding:0 30px;}
+.quizpress .quizProcCon dt{font-size:15px;line-height:24px;font-weight:bold;margin-bottom:28px;}
+.quizpress .quizProcCon dd{min-height:40px;background:#3c9cd7;border-radius:5px;margin-bottom:7px;}
+.quizpress .quizProcCon dd a{display:block;font-size:15px;color:#fff;line-height:40px;text-decoration:none;padding:0 10px;}
+.quizpress .quizProcCon dd input{width:100%;}
+.quizpress .quizProcCon dd a:hover{background:#4faee8;border-radius:5px}
+.quizpress .quizProcCon dd.correct{background:#00953b}
+.quizpress .quizProcCon dd.correct a{background:url(./images/bg_correct.jpg) center center no-repeat;}
+.quizpress .quizProcCon dd.wrong{background:#d51914}
+.quizpress .quizProcCon dd.wrong a{background:url(./images/bg_wrong.jpg) center center no-repeat;}
+
+.quizpress .displayResult{background:#fff;}
+.quizpress .thumb{margin-bottom:15px;}
+.quizpress .user{display:block;font-size:15px;font-weight:bold;line-height:15px;}
+.quizpress .quizScore{background:#fff;height:44px;line-height:44px;}
+.quizpress .quizScore em{display:inline-block;height:25px;line-height:25px;font-size:15px;font-weight:bold;color:#435560;}
+.quizpress .quizScore .number{background:url(./images/icon_page.png) 0 center no-repeat;padding-left:6px;margin-right:35px;}
+.quizpress .quizScore .got{background:url(./images/icon_got.png) 0 center no-repeat;padding-left:34px;margin-right:36px;}
+.quizpress .quizScore .missed{background:url(./images/icon_missed.png) 0 center no-repeat;padding-left:33px;}

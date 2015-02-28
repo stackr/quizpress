@@ -1,0 +1,30 @@
+ul.quizpress_tabs{
+	list-style:none;
+	overflow:hidden;
+	margin-bottom:0;
+}
+
+ul.quizpress_tabs li{
+	float:left;
+	padding:5px;
+}
+ul.quizpress_tabs li a{
+	text-decoration: none;
+}
+ul.quizpress_tabs li.selected{
+	background: #f1f1f1;
+	border:1px solid #dfdfdf;
+	border-radius: 3px 3px 0 3px;
+	border-bottom: 0px;
+	margin-right:5px;
+}
+.quizpress_panel{
+	height:300px;
+	border:1px solid #dfdfdf;
+	margin-top:-7px;
+	
+}
+#nav h2{
+	border-bottom:1px solid #ccc;
+	padding-bottom:0;
+}

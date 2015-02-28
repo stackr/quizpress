@@ -1,0 +1,16 @@
+# Copyright (C) 2013 QuizPress
+# This file is distributed under the same license as the QuizPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: QuizPress 1.0\n"
+"Report-Msgid-Bugs-To: http://www.stackr.co.kr/\n"
+"POT-Creation-Date: 2012-07-24 06:45:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-11-22 08:47+0900\n"
+"Last-Translator: MinHyeong Lim <ssamture@gmail.com>\n"
+"Language-Team: Stackr Inc. <stackrinc@gmail.com>\n"
+
+msgid "Quiz"
+msgstr ""
